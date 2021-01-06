@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@sveltech/routify": "^1.9.10",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "dayjs": "^1.9.6",
     "sirv-cli": "^1.0.8"
   },
